@@ -30,7 +30,7 @@ This script scrapes video data from a YouTube channel using Selenium WebDriver. 
 3. Run the script:
 
     ```bash
-    python youtube_scraper.py
+    python scraper.py
     ```
 
 ## Script Details
